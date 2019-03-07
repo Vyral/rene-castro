@@ -1236,13 +1236,13 @@ html[xmlns] .flexslider .slides {
   padding: 10px 20px;
   text-decoration: none;
   font-size: 18px;
-  color: white;
+  color: #000;
   transition: all 0.15s ease-out 0s; }
   .ctalink a {
     text-align: center; }
   .ctalink:hover {
     background: #fff;
-    color: #2ce881;
+    color: #16cb68;
     border: 1px solid #2ce881; }
   .ctalink:active {
     box-shadow: 0 0 0 #2ce881;
@@ -1258,7 +1258,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #88f2b8;
+  -webkit-tap-highlight-color: #16cb68;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1294,7 +1294,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #88f2b8; }
+        color: #16cb68; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1303,7 +1303,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #88f2b8;
+      background-color: #16cb68;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1660,11 +1660,11 @@ h6 {
   margin: 0 auto; }
 
 a {
-  color: #2ce881;
+  color: #16cb68;
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #88f2b8; }
+    color: #2ce881; }
   a:visited {
     text-decoration: none; }
 
@@ -1675,7 +1675,7 @@ a {
   border: 1px solid #2ce881;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #88f2b8;
+    background: #16cb68;
     border: 1px solid #2ce881;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1693,8 +1693,8 @@ a {
   border-color: #2ce881;
   color: #2ce881; }
   .button-ghost.brand:hover {
-    border-color: #88f2b8;
-    color: #88f2b8; }
+    border-color: #16cb68;
+    color: #16cb68; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1849,7 +1849,7 @@ table tr, table td {
 
 .readlink > a {
   background: #2ce881;
-  color: white;
+  color: #000;
   border: 1px solid #2ce881;
   border-radius: 0px;
   padding: 10px 20px;
@@ -1859,7 +1859,7 @@ table tr, table td {
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
     background: #fff;
-    color: #2ce881;
+    color: #16cb68;
     border: 1px solid #2ce881; }
   .readlink > a:active {
     box-shadow: 0 0 0 #2ce881;
@@ -1956,7 +1956,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #88f2b8; }
+      color: #16cb68; }
 
 .post-share {
   text-align: center;
@@ -2083,16 +2083,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #88f2b8;
+      fill: #16cb68;
       background: transparent;
-      color: #88f2b8;
+      color: #16cb68;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #88f2b8;
+      box-shadow: 0 0 0 #16cb68;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2105,7 +2105,7 @@ table tr, table td {
     width: 5rem;
     fill: #2ce881; }
     .about .socials svg:hover {
-      fill: #88f2b8; }
+      fill: #16cb68; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2121,7 +2121,7 @@ table tr, table td {
     fill: #2ce881;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #88f2b8;
+      fill: #16cb68;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2229,7 +2229,7 @@ table tr, table td {
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
     background: #2ce881;
-    color: white;
+    color: #000;
     padding: 0.9rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
@@ -2239,7 +2239,7 @@ table tr, table td {
     transition: 0.3s; }
     .search-box .search-submit:hover {
       background: #fff;
-      color: #2ce881;
+      color: #16cb68;
       border: 1px solid #2ce881; }
     .search-box .search-submit:active {
       box-shadow: 0 0 0 #2ce881;
@@ -2354,7 +2354,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #88f2b8; }
+    fill: #16cb68; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2436,7 +2436,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #b6f7d3; }
+      color: #2ce881; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2488,7 +2488,7 @@ form select {
     padding: 1rem;
     border: 3px solid #2ce881; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #88f2b8; }
+      border: 3px solid #16cb68; }
 
 .contact-form {
   width: 75%;
