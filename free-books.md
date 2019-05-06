@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Free Book
-permalink: /free-book/
+permalink: /free-books/
 ---
 <div class="center">
 <h1 class="free-book">Claim Your FREE Book Today</h1>
