@@ -6,7 +6,7 @@ custom_links:
     url:
 show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title: Success Resource Book
+  - title: Success Resource Books
     url: /free-book/
   - title: Consultation Call
     url: https://calendly.com/phone2019calendar
