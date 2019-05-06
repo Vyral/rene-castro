@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free Book
+title: Free Books
 permalink: /free-books/
 ---
 <div class="center">
