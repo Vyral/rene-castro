@@ -8,7 +8,7 @@ permalink: /free-books/
 
 
 
-<a href="https://mediabox.cegworldwide.com/members/_resources/books/ELITE_WEALTH_PLANNING" target="_blank"><img src="/img/book1.jpg" class="half-image"></a><br>
+<img src="/img/book1.jpg" class="half-image"><br>
 
 <img src="/img/book.jpg" class="half-image"><br>
 </div>
