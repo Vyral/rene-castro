@@ -10,6 +10,8 @@ permalink: /free-books/
 
 <img src="/img/book1.jpg" class="half-image"><br>
 
+<img src="/img/book2.jpg" class="half-image"><br>
+
 <img src="/img/book.jpg" class="half-image"><br>
 </div>
 
