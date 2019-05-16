@@ -43,12 +43,12 @@ sidebar_CTA:
     CTA_link_text: "Contact Me"
     CTA_url: /contact/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Are you paying too much in taxes?"
-    CTA_text2: "Elite Wealth & Tax Planning Maximizing your Success"
-    CTA_link_text2: "More Info"
-    CTA_url2: https://app.cloudcannon.com/18578/editor#/site/70709/browser/img:/browser/img/Castro_Elite.pdf
+# second_sidebar_CTA:
+#  - CTA_image_path2: /img/cta-images/002.jpg
+#    CTA_title2: "Are you paying too much in taxes?"
+#    CTA_text2: "Elite Wealth & Tax Planning Maximizing your Success"
+#    CTA_link_text2: "More Info"
+#    CTA_url2: https://app.cloudcannon.com/18578/editor#/site/70709/browser/img:/browser/img/Castro_Elite.pdf
 
 lender:
   show_section: false
