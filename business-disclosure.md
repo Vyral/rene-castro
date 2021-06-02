@@ -3,6 +3,7 @@ layout: default
 title: Business Disclosure
 permalink: /business-disclosure/
 ---
+<br>
 <p>Investment advisory services are offered through Retirement Wealth Management, a California-registered investment adviser. Securities are offered through Great Point Capital, member SIPC and FINRA. Great Point Capital and Retirement Wealth Management are not affiliated.</p>
 <p>CRD # 2559410 FINRA's BrokerCheck</p>
 
